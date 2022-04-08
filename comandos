@@ -1,0 +1,3 @@
+rm -r  eliminar directorio con todo adentro
+
+ sudo mv home12222.php ../../templates
